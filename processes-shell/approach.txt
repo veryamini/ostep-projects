@@ -1,0 +1,10 @@
+Target Day 1:
+1. Create a shell.
+2. Implement basic interactive shell
+3. Use \bin as inital path for all built in commands
+4. Handle errors and exit commands
+
+Target Day 2:
+1. Implement batch shell
+2. Handle redirection, parallel commands
+3. Handle errors and exit commands
